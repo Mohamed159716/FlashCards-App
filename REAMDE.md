@@ -15,7 +15,7 @@ To use this project must install [Node.js](https://nodejs.org/en/)
 To download the project app
 
 ```bash
-git clone https://github.com/Mohamed159716/Would-You-Rather.git
+git clone https://github.com/Mohamed159716/FlashCards-App.git
 cd My-Reads-App
 ```
 
