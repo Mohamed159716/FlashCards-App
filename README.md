@@ -17,7 +17,7 @@ To download the project app
 
 ```bash
 git clone https://github.com/Mohamed159716/FlashCards-App.git
-cd My-Reads-App
+cd FlashCards-App-Main
 ```
 
 install all project dependencies with
